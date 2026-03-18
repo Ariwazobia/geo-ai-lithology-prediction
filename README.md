@@ -3,8 +3,7 @@
 # 🇦🇹 Applicant
 **Okafor Victor Arinze**
 
-This project was developed as part of my preparation for admission into the  
-**MSc in Artificial Intelligence and Data Science**.
+This project was developed as part of my preparation for postgraduate studies in Artificial Intelligence and Data Science, with a focus on applying machine learning techniques to real-world scientific data.
 
 ---
 
