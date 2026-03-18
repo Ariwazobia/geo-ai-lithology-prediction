@@ -1,10 +1,10 @@
 # Geological Lithology Prediction using Machine Learning
 
-## 🇦🇹 Applicant
+# 🇦🇹 Applicant
 **Okafor Victor Arinze**
 
 This project was developed as part of my preparation for admission into the  
-**MSc in Artificial Intelligence and Data Science at FH Vienna**.
+**MSc in Artificial Intelligence and Data Science**.
 
 ---
 
